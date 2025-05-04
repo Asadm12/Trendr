@@ -1,5 +1,12 @@
-streamlit
-plotly
-yfinance
+matplotlib
 nltk
+numpy
+openpyxl
+pandas
+plotly
 requests
+scikit-learn
+statsmodels
+streamlit
+streamlit-extras
+yfinance
